@@ -1,24 +1,18 @@
-def addDigits(self, num):
+def addDigits(num):
     """
     :type num: int
     :rtype: int
     """
-
-    total = 0 
-    ans = 0
-    temp = 0
-    if(int(num/10) == 0):
-        return num
-    while(num>0):
-        total = total + num%10
-        temp = total
-        if(int(total/10)!=0):
-            while(temp>0):
-                ans = ans + temp%10 
-                temp/=10
-    
+    sum = 0
+      
+    while(num > 0 or sum > 9): 
+      
+        if(num == 0): 
+            num = sum
+            sum = 0
+          
+        sum += num % 10
         num /= 10
+    return int(sum)
     
-    return(ans)
-
-addDigits(129)
+addDigits(1212123)
