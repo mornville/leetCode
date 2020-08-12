@@ -15,10 +15,5 @@ class Solution(object):
         while(fast!=None and fast.next!=None):
             slow = slow.next
             fast = fast.next.next
-        itr = slow
-        ## output linked list
-        while itr:
-            a.append(itr)
-            itr = itr.next
-        return a[0]
+        return slow
     
