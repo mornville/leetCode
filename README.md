@@ -5,10 +5,11 @@ Tags Covered:
 * <a href="https://leetcode.com/problemset/all/?topicSlugs=array">Array</a>
 * <a href="https://leetcode.com/problemset/all/?topicSlugs=binary-search">Binary Search</a>
 * <a href="https://leetcode.com/problemset/all/?topicSlugs=two-pointers">Two Pointers</a>
+* <a href="https://leetcode.com/problemset/all/?topicSlugs=stack">Stack</a>
 
 ## Stats
 
-Total problems solved: **33**
+Total problems solved: **34**
 
 #### Linked List
 | Type   | Solved  |
@@ -41,4 +42,12 @@ Total problems solved: **33**
 | Medium | 01      |
 | Hard   | 00      |
 | Total  | 04      |
+
+#### Stack
+| Type   | Solved  |
+|:------:|:-------:|
+| Easy   | 01      |
+| Medium | 00      |
+| Hard   | 00      |
+| Total  | 01      |
 
