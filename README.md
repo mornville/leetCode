@@ -9,7 +9,7 @@ Tags Covered:
 
 ## Stats
 
-Total problems solved: **34**
+Total problems solved: **35**
 
 #### Linked List
 | Type   | Solved  |
@@ -47,7 +47,7 @@ Total problems solved: **34**
 | Type   | Solved  |
 |:------:|:-------:|
 | Easy   | 00      |
-| Medium | 01      |
+| Medium | 02      |
 | Hard   | 00      |
-| Total  | 01      |
+| Total  | 02      |
 
