@@ -46,8 +46,8 @@ Total problems solved: **34**
 #### Stack
 | Type   | Solved  |
 |:------:|:-------:|
-| Easy   | 01      |
-| Medium | 00      |
+| Easy   | 00      |
+| Medium | 01      |
 | Hard   | 00      |
 | Total  | 01      |
 
