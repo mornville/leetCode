@@ -6,10 +6,11 @@ Tags Covered:
 * <a href="https://leetcode.com/problemset/all/?topicSlugs=binary-search">Binary Search</a>
 * <a href="https://leetcode.com/problemset/all/?topicSlugs=two-pointers">Two Pointers</a>
 * <a href="https://leetcode.com/problemset/all/?topicSlugs=stack">Stack</a>
+* <a href="https://leetcode.com/problemset/all/?topicSlugs=string">String</a>
 
 ## Stats
 
-Total problems solved: **43**
+Total problems solved: **44**
 
 #### AUGUST CHALLENGE
 | Solved | 02      |
@@ -54,4 +55,12 @@ Total problems solved: **43**
 | Medium | 03      |
 | Hard   | 00      |
 | Total  | 05      |
+
+#### String
+| Type   | Solved  |
+|:------:|:-------:|
+| Easy   | 01      |
+| Medium | 00      |
+| Hard   | 00      |
+| Total  | 01      |
 
