@@ -10,7 +10,7 @@ Tags Covered:
 
 ## Stats
 
-Total problems solved: **54**
+Total problems solved: **55**
 
 #### AUGUST CHALLENGE
 | Solved | 02      |
@@ -20,9 +20,9 @@ Total problems solved: **54**
 | Type   | Solved  |
 |:------:|:-------:|
 | Easy   | 06      |
-| Medium | 05      |
+| Medium | 06      |
 | Hard   | 01      |
-| Total  | 11      |
+| Total  | 12      |
 
 #### Array
 | Type   | Solved  |
