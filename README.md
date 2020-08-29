@@ -10,7 +10,7 @@ Tags Covered:
 
 ## Stats
 
-Total problems solved: **58**
+Total problems solved: **59**
 
 #### AUGUST CHALLENGE
 | Solved | 02      |
@@ -43,10 +43,10 @@ Total problems solved: **58**
 #### Two Pointers
 | Type   | Solved  |
 |:------:|:-------:|
-| Easy   | 05      |
+| Easy   | 06      |
 | Medium | 01      |
 | Hard   | 00      |
-| Total  | 06      |
+| Total  | 07      |
 
 #### Stack
 | Type   | Solved  |
