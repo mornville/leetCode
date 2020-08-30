@@ -51,10 +51,10 @@ Total problems solved: **60**
 #### Stack
 | Type   | Solved  |
 |:------:|:-------:|
-| Easy   | 03      |
+| Easy   | 04      |
 | Medium | 03      |
 | Hard   | 00      |
-| Total  | 06      |
+| Total  | 07      |
 
 #### String
 | Type   | Solved  |
