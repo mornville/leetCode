@@ -10,7 +10,7 @@ Tags Covered:
 
 ## Stats
 
-Total problems solved: **67**
+Total problems solved: **68**
 
 #### SEPTEMBER CHALLENGE
 | Solved | 01      |
@@ -31,10 +31,10 @@ Total problems solved: **67**
 #### Array
 | Type   | Solved  |
 |:------:|:-------:|
-| Easy   | 17      |
+| Easy   | 18      |
 | Medium | 03      |
 | Hard   | 00      |
-| Total  | 20      |
+| Total  | 21      |
 
 #### Binary Search
 | Type   | Solved  |
