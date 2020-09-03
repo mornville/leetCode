@@ -7,10 +7,11 @@ Tags Covered:
 * <a href="https://leetcode.com/problemset/all/?topicSlugs=two-pointers">Two Pointers</a>
 * <a href="https://leetcode.com/problemset/all/?topicSlugs=stack">Stack</a>
 * <a href="https://leetcode.com/problemset/all/?topicSlugs=string">String</a>
+* <a href="https://leetcode.com/problemset/all/?topicSlugs=hash">Hashmap</a>
 
 ## Stats
 
-Total problems solved: **68**
+Total problems solved: **69**
 
 #### SEPTEMBER CHALLENGE
 | Solved | 01      |
@@ -27,6 +28,14 @@ Total problems solved: **68**
 | Medium | 07      |
 | Hard   | 01      |
 | Total  | 13      |
+
+#### HashMap
+| Type   | Solved  |
+|:------:|:-------:|
+| Easy   | 01      |
+| Medium | 00      |
+| Hard   | 00      |
+| Total  | 01      |
 
 #### Array
 | Type   | Solved  |
