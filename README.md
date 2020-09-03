@@ -72,8 +72,8 @@ Total problems solved: **69**
 #### String
 | Type   | Solved  |
 |:------:|:-------:|
-| Easy   | 05      |
+| Easy   | 06      |
 | Medium | 03      |
 | Hard   | 00      |
-| Total  | 08      |
+| Total  | 09      |
 
