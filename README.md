@@ -11,7 +11,7 @@ Tags Covered:
 
 ## Stats
 
-Total problems solved: **74**
+Total problems solved: **75**
 
 #### SEPTEMBER CHALLENGE
 | Solved | 03      |
@@ -64,10 +64,10 @@ Total problems solved: **74**
 #### Stack
 | Type   | Solved  |
 |:------:|:-------:|
-| Easy   | 04      |
+| Easy   | 05      |
 | Medium | 03      |
 | Hard   | 00      |
-| Total  | 07      |
+| Total  | 08      |
 
 #### String
 | Type   | Solved  |
