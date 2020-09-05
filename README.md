@@ -11,7 +11,7 @@ Tags Covered:
 
 ## Stats
 
-Total problems solved: **75**
+Total problems solved: **76**
 
 #### SEPTEMBER CHALLENGE
 | Solved | 03      |
@@ -56,10 +56,10 @@ Total problems solved: **75**
 #### Two Pointers
 | Type   | Solved  |
 |:------:|:-------:|
-| Easy   | 06      |
+| Easy   | 07      |
 | Medium | 02      |
 | Hard   | 00      |
-| Total  | 08      |
+| Total  | 09      |
 
 #### Stack
 | Type   | Solved  |
