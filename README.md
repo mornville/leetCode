@@ -11,10 +11,10 @@ Tags Covered:
 
 ## Stats
 
-Total problems solved: **79**
+Total problems solved: **80**
 
 #### SEPTEMBER CHALLENGE
-| Solved | 05      |
+| Solved | 06      |
 |:------:|:-------:|
 
 #### AUGUST CHALLENGE
@@ -32,10 +32,10 @@ Total problems solved: **79**
 #### HashMap
 | Type   | Solved  |
 |:------:|:-------:|
-| Easy   | 01      |
+| Easy   | 02      |
 | Medium | 00      |
 | Hard   | 00      |
-| Total  | 01      |
+| Total  | 02      |
 
 #### Array
 | Type   | Solved  |
