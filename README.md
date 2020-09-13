@@ -11,10 +11,10 @@ Tags Covered:
 
 ## Stats
 
-Total problems solved: **85**
+Total problems solved: **86**
 
 #### SEPTEMBER CHALLENGE
-| Solved | 06      |
+| Solved | 07      |
 |:------:|:-------:|
 
 #### AUGUST CHALLENGE
@@ -42,8 +42,8 @@ Total problems solved: **85**
 |:------:|:-------:|
 | Easy   | 19      |
 | Medium | 03      |
-| Hard   | 00      |
-| Total  | 22      |
+| Hard   | 01      |
+| Total  | 23      |
 
 #### Binary Search
 | Type   | Solved  |
