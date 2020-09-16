@@ -11,7 +11,7 @@ Tags Covered:
 
 ## Stats
 
-Total problems solved: **89**
+Total problems solved: **90**
 
 #### SEPTEMBER CHALLENGE
 | Solved | 09      |
@@ -40,10 +40,10 @@ Total problems solved: **89**
 #### Array
 | Type   | Solved  |
 |:------:|:-------:|
-| Easy   | 19      |
+| Easy   | 20      |
 | Medium | 03      |
 | Hard   | 01      |
-| Total  | 23      |
+| Total  | 24      |
 
 #### Binary Search
 | Type   | Solved  |
