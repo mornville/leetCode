@@ -11,7 +11,7 @@ Tags Covered:
 
 ## Stats
 
-Total problems solved: **92**
+Total problems solved: **93**
 
 #### SEPTEMBER CHALLENGE
 | Solved | 09      |
@@ -24,10 +24,10 @@ Total problems solved: **92**
 #### Linked List
 | Type   | Solved  |
 |:------:|:-------:|
-| Easy   | 08      |
+| Easy   | 09      |
 | Medium | 08      |
 | Hard   | 01      |
-| Total  | 16      |
+| Total  | 17      |
 
 #### HashMap
 | Type   | Solved  |
