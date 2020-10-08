@@ -11,10 +11,10 @@ Tags Covered:
 
 ## Stats
 
-Total problems solved: **96**
+Total problems solved: **97**
 
 #### OCTOBER CHALLENGE
-| Solved | 02      |
+| Solved | 03      |
 |:------:|:-------:|
 
 #### SEPTEMBER CHALLENGE
