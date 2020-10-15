@@ -14,7 +14,7 @@ Tags Covered:
 Total problems solved: **98**
 
 #### OCTOBER CHALLENGE
-| Solved | 05      |
+| Solved | 06      |
 |:------:|:-------:|
 
 #### SEPTEMBER CHALLENGE
