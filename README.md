@@ -1,6 +1,7 @@
 # LeetCode Solutions
 Solutions to some of the coding problems from LeetCode. <br>
 Tags Covered:
+* <a href="https://leetcode.com/problemset/all/?topicSlugs=binary-search-tree">Binary Search Tree</a>
 * <a href="https://leetcode.com/problemset/all/?topicSlugs=linked-list">Linked List</a>
 * <a href="https://leetcode.com/problemset/all/?topicSlugs=array">Array</a>
 * <a href="https://leetcode.com/problemset/all/?topicSlugs=binary-search">Binary Search</a>
@@ -11,7 +12,7 @@ Tags Covered:
 
 ## Stats
 
-Total problems solved: **98**
+Total problems solved: **100**
 
 #### OCTOBER CHALLENGE
 | Solved | 06      |
@@ -24,6 +25,14 @@ Total problems solved: **98**
 #### AUGUST CHALLENGE
 | Solved | 02      |
 |:------:|:-------:|
+
+#### Binary Search Tree
+| Type   | Solved  |
+|:------:|:-------:|
+| Easy   | 01      |
+| Medium | 01      |
+| Hard   | 00      |
+| Total  | 02      |
 
 #### Linked List
 | Type   | Solved  |
